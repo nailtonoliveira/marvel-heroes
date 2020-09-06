@@ -1,44 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Icons made by Dave Gandy" src="https://upload.wikimedia.org/wikipedia/commons/0/04/MarvelLogo.svg" height="124" width="124">
+    <br>
+    Marvel Characters
+</h1>
 
-## Available Scripts
+This is a ReactJS application developed to allow users to get to know the characters available in the [Marvel API](https://developer.marvel.com/docs). It is possible to search for characters through a search field, and it is also possible to view some details of the characters and a list with the series in which the character has an appearance.
 
-In the project directory, you can run:
+## :rocket: Installation
 
-### `yarn start`
+Clone the repository
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+git clone https://github.com/nailtonoliveira/marvel-heroes.git
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Open a terminal on the repository folder and install the dependencies:
 
-### `yarn test`
+```bash
+yarn
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run the application in development mode run:
 
-### `yarn build`
+```bash
+yarn start
+```
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This application was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Follow the link for further information.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## :books: Technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project was developed with the following technologies:
 
-### `yarn eject`
+- [ReactJS](https://reactjs.org/)
+- [Create React App](https://github.com/facebook/create-react-app)
+- [Typescript](https://www.typescriptlang.org/)
+- [Styled Components](https://www.styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [SWR](https://swr.vercel.app/)
+- [React Icons](https://www.npmjs.com/package/react-icons)
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom)
+- [Prettier](https://prettier.io/)
+- [VS Code](https://code.visualstudio.com/) with [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :memo: License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project is under the MIT license. See the [LICENSE](https://github.com/nailtonoliveira/marvel-heroes/blob/master/LICENSE) for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Made by Giovanni Antonaccio :wave: [Get in touch!](https://www.linkedin.com/in/nailtonoliveira-developer/)
