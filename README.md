@@ -49,4 +49,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/nail
 
 ---
 
-Made by Giovanni Antonaccio :wave: [Get in touch!](https://www.linkedin.com/in/nailtonoliveira-developer/)
+Made by Nailton Oliveira :wave: [Get in touch!](https://www.linkedin.com/in/nailtonoliveira-developer/)
